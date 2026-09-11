@@ -5,6 +5,9 @@
 
 ### Features
 
+- **text:** add text annotation functionality with part-of-speech highlighting ([dfc0c90](https://github.com/DaoChaShao/py-st-basic/commit/dfc0c9076b1d578f98de48843d4df7e251f21a9a))
+- **demo:** add Streamlit annotated text example ([f819524](https://github.com/DaoChaShao/py-st-basic/commit/f8195244a3383ad8146ed978b972c3fc432d5797))
+- **project:** initialize basic Streamlit project with multiple examples ([0a2a76c](https://github.com/DaoChaShao/py-st-basic/commit/0a2a76cb3b61dc53c49287074e2e3f723e7c0d08))
 - add uv.lock file ([89b3efe](https://github.com/DaoChaShao/py-st-basic/commit/89b3efeb80121b217176bfe878f318a8b3a32de2))
 - **streamlit:** add stqdm progress bar example with nested loops ([484431d](https://github.com/DaoChaShao/py-st-basic/commit/484431da247cf3182aaaf7c66884aa7ce054c2f9))
 - **streamlit:** add icon implementation with Material Icons support ([631ed9d](https://github.com/DaoChaShao/py-st-basic/commit/631ed9d4582a3854a93cdb9035fca3454cf88a23))
